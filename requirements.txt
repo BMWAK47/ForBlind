@@ -1,4 +1,3 @@
-Flask
-gunicorn
 Flask-Login==0.4.1
 Gtts
+Flask
